@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zesium Application</string>
+    <string name="not_a_registered_user_register">Not a Registered User? Register</string>
+    <string name="password_recovery">Password Recovery</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Login</string>
+    <string name="name_and_surname">Name And Surname</string>
+    <string name="registration">Registration</string>
+    <string name="repeat_email">Repeat Email</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="company_name">Company Name</string>
+    <string name="organization_number">Organization Number</string>
+    <string name="invoice_address">Invoice Address</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_your_password">Forgot your Password?</string>
+    <string name="todo">TODO</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="done">DONE</string>
+    <string name="create_a_new_one">Create a new one!</string>
+</resources>
